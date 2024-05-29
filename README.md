@@ -22,5 +22,5 @@
 Постоянное движение вперед при отсутствии препятствий.
 Остановка и выполнение маневра объезда при обнаружении препятствия.
 
-**romazann/romazann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+blob:https://web.telegram.org/8b9244b8-cb71-4c26-a2e8-8e37eb2491c6
 
