@@ -24,4 +24,7 @@
 
 ![photo_5384095407002475823_x (1)](https://github.com/romazann/romazann/assets/171032309/9fee27ba-62a7-49ca-a57c-d2d37dd524d9)
 
+# video 
+https://youtube.com/shorts/vfGesdY-abg?si=UL5EmFyU28ch067s
+
 
