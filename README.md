@@ -26,5 +26,6 @@
 
 # video 
 https://youtube.com/shorts/vfGesdY-abg?si=UL5EmFyU28ch067s
+https://youtube.com/shorts/z7Vtv7qy9s8?si=dvcVA8EFh7AMpeV1
 
 
